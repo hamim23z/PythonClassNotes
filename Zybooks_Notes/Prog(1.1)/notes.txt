@@ -1,0 +1,8 @@
+A computer program consists of instructions executing one at a time. Some of the basic instructions are:
+    Input: receives data from a file, keyboard, mouse, network, etc 
+    Process: performs computations on that data such as adding values
+    Output: puts the data somewhere such as a file, screen, network
+
+
+Algorithms: sequence of instructions that solves a problem
+
