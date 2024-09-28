@@ -1,0 +1,9 @@
+**Scripting Languages and Python**
+    - Scripting Languages: execute programs without the need of compiling it. 
+
+    - Script: a program whose instructions are executed by another program 
+    called an interpreter. 
+
+    - Backward Compatible: this means that older versions cannot run on newer
+    versions. For example, Python 2.7 can't run on Python 3.x. Python is 
+    an open source language. 

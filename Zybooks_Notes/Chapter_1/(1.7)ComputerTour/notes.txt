@@ -1,0 +1,31 @@
+**Computer Components**
+    - Input/Output Devices: a screen, keyboard, mouse, microphone,
+    speakers, printers. 
+
+    - Storage: a disk that stores files and other data, like program 
+    files, pictures, music, videos, etc. You have an HDD and SSD, SSD
+    is becoming more common and profound. Storage does not lose its
+    content when the device is turned off. 
+
+    - Memory(RAM): Random Access Memory and it temporarily holds data
+    read from storage and is designed to any address can be accessed
+    faster than from a disk. RAM loses its content when the device is
+    turned off. 
+
+    - Processor: it runs the computers programs by reading and executing
+    instructions from memory, performing operations, and reading and 
+    writing data. BIOS, OS, CPU.
+
+    - Clock: a processors instructions execute at a rate that the processors
+    clock runs at. It runs at a frequency, like 1MHz. 
+
+    - Transistors: these are smaller switches that were integrated onto a 
+    single chip called an integrated circuit. 
+
+    
+
+
+**Moore's Law**
+- The observation that the number of transistors on an integrated circuit will 
+double every two years with minimal rise in cost. Gordon Moore discovered this 
+and he was a founder at Intel. 

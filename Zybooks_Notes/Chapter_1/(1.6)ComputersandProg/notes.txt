@@ -1,0 +1,30 @@
+**Switches**
+- Bits aka binary digits are known to be 0 and 1. 1 is on/true. 0 means off/false. 
+
+
+
+
+**Processors and Memory**
+- To support different calculations, we use processors and memory
+    - Processors: circuits that were created to process/execute a list of instructions. 
+        • Nowadays, processors fit on a chip about the size of a postage stamp and they
+        contain millions or billions of switches. 
+
+    - Memory: this is where instructions are stored. It is a circuit that can store 0s
+    and 1s in a series of addressed locations. 
+
+    - Program/Application/App: programmer created sequence of instructions
+
+
+
+
+**Writing Computer Programs**
+    - Machine Instructions: instructions represented as 0s and 1s
+    
+    - Executable Program: a sequence of machine instructions
+
+    - Assembly Language: low-level programming language that is intended to communicate 
+    directly with a computer's hardware.
+
+    - Compilers: programmer create compiler that are program that automatically translate
+    high level language programs into executable programs. 

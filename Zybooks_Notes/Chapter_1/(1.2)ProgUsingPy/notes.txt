@@ -12,8 +12,13 @@
 that consist of a few lines. If its a large program, we can write Python code in
 a file and then give that to the interpreter. 
     - Statement: program instruction
+
     - Expressions: code that returns a value when evalutated. (Ex: pay = wage*hours)
+
     - Variables: references to values
+
     - Assignment: we use the equal sign to assign values to a variable = 
+
     - Print() Function: displays variables or expression values
+    
     - Comments: we can use # for single line or """ or ''' for multiline comments

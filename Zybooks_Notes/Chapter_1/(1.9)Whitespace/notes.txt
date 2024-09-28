@@ -1,0 +1,16 @@
+**Whitespace and Precise Formatting**
+    - Whitespace: any black space or new line. 
+
+
+
+
+**Precision in Programming**
+- In order to run programs correctly, they need to be created precisely. 
+    - EXAMPLE: = and == is different
+    - EXAMPLE: counting from i<10 gives a different output than i<=10
+
+- Paying careful attention to details like whitespace instructions, carefully examining 
+feedback regarding whitespace differences, and then modifying a program to exactly match 
+expected whitespace are exercises that strengthen attention to detail. Such attention can 
+lead programmers to make fewer mistakes when creating programs, spend less time debugging, 
+and instead create programs that work correctly.

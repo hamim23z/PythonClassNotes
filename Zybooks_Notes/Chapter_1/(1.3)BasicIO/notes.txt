@@ -5,8 +5,8 @@
     - Any space, tab or newline is called white space. 
 
     - String: text enclosed in quotes. Can have letters, numbers, spaces, or symbols
-        - Strings must be enclosed in "" or ''. 
-        - Strings must start and end with the same kind of quotes.
+        • Strings must be enclosed in "" or ''. 
+        • Strings must start and end with the same kind of quotes.
 
 
 
@@ -49,6 +49,7 @@ we do end= ' ' inside of the print, then it keeps the output of the next on the 
 **Converting Input Types**
 - As we should know, '123' is different from 123. 
     - Type: determines how a value can behave. Strings are integers are types. 
+
 
 
 
