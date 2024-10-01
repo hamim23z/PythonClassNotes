@@ -1,0 +1,82 @@
+**Chapter 3: Conditional Statements**
+- There are three kinds of conditional statements. We use conditional statements
+to help us make decisions based on what happens. 
+
+    - Single Selection Conditional Statement (If Statement)
+        • If it rains[condition] then I will take an umbrella[decision]
+        • If the condition is true, then the decision will be executed. 
+        • If the condition is false, nothing will happen. 
+
+**Syntax**
+if (condition):
+    decision
+
+
+**Example**
+if (gpa >= 3.8):
+    print("You are an honors student.") #this is the body of the if statement#
+
+
+    
+
+    - Double Selection Conditional Statement (If Else Statement)
+        • If it rains[condition], then I will take an umbrella[statement 1] else I will 
+        not take am umbrella[statement 2].
+        • This is used only when an event has only two mutually exclusive outcomes. These
+        are events that cannot happen at the same time. Example: rolling a dice, throwing
+        a coin. 
+
+**Syntax**
+if (condition):
+    statement 1
+else:
+    statement 2
+
+
+**Example**
+if (gpa >= 3.8):
+    print("You are an honors student.")
+else:
+    print("You are not an honors student.")
+
+
+
+
+    - Multiple Selection Conditional Statement (If .. Elif ... Elif ... Elif ... Else Statement)
+        • This is used only when an event has n mutually exclusive outcomes. These are events
+        that cannot happen at the same. 
+
+**Syntax**
+if (condition 1):
+    statement 1
+elif (condition 2):
+    statement 2
+elif (condition 3):
+    statement 3
+elif (condition 4):
+    statement 4
+else:
+    decision 5
+
+
+
+
+
+
+
+
+
+
+**Comparision Operators**
+- These are the comparison operators that we use in Python
+
+== Equal to operator. Test for equality.       Example is a == b.
+!= Not equal to operator. Test for inequality. Example is a != b.
+>  Greater than operator. Test for greater.    Example is a > b
+<  Less than operator. Test for less.          Example is a < b
+>= Greater than or equal to operator.          Example is a >= b
+<= Less than or equal to operator.             Example is a <= b
+
+
+= The assignment operator has right to left associativity. 
+For example, a = b. So b is assigned to a. 
