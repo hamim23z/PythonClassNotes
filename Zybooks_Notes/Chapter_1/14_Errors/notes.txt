@@ -1,34 +1,34 @@
 **Syntax Errors**
-- Violates a programming language's rules on how symbols can be combined to create
-a program. 
-- To avoid errors, frequently run your code. 
+    - Violates a programming language's rules on how symbols can be combined to create
+    a program. 
+    - To avoid errors, frequently run your code. 
     - EXAMPLE: putting multiple print statements on the same line
 
 
 
 
 **Runtime Errors**
-- A programs syntaxt is correct but the program attempts an impossible operation
-such as diving by zero or multiplying strings. 
-- A runtime errors halts the program aka a crash of the program. 
+    - A programs syntaxt is correct but the program attempts an impossible operation
+    such as diving by zero or multiplying strings. 
+    - A runtime errors halts the program aka a crash of the program. 
 
 
 
 
 **Logic Errors**
-- When a program is logically flawed, this is often called a bug, 
-    - EXAMPLE: 2*4 instead of 2*40
+    - When a program is logically flawed, this is often called a bug, 
+        • EXAMPLE: 2*4 instead of 2*40
 
 
 
 
 **Common Error Types**
-- SyntaxError: The program contains invalid code that cannot be understood.
+    - SyntaxError: The program contains invalid code that cannot be understood.
 
-- IndentationError: The lines of the program are not properly indented.
+    - IndentationError: The lines of the program are not properly indented.
 
-- ValueError: An invalid value is used, which can occur if giving letters to int().
+    - ValueError: An invalid value is used, which can occur if giving letters to int().
 
-- NameError: The program tries to use a variable that does not exist.
+    - NameError: The program tries to use a variable that does not exist.
 
-- TypeError: An operation uses incorrect types, which can occur if adding an integer to a string.
+    - TypeError: An operation uses incorrect types, which can occur if adding an integer to a string.

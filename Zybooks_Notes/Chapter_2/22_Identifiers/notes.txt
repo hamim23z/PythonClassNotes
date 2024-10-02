@@ -1,0 +1,30 @@
+**Rules for Identifiers**
+    - Identifier: aka a name. It is a sequence of letters, digits, and underscore. 
+    It must start with a letter or underscore. 
+
+    - Case Sensitive: Python is case sensitive, so uppercase and lowercase letters
+    differ. 
+
+    - Reserved Words: aka keywords. These are words that are part of the language
+    and cannot be used as a programmer defined name. Example is and, True, False
+
+
+
+
+**Some Reserved Keywords in Python**
+    - False
+    - None
+    - True
+    - and
+    - as
+    - assert
+    - async
+    - await
+    - break
+    - class
+    - continue
+    - def
+    - del
+    - elif
+
+    And there are a lot more. 

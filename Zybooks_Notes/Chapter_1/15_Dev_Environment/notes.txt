@@ -1,9 +1,9 @@
 **Integrated Developer Environment**
-- Commonly known as an IDE. IDE's are used to write code basically. 
-- Some of the most common IDE's are VSCode, PyDev, PyCharm
+    - Commonly known as an IDE. IDE's are used to write code basically. 
+    - Some of the most common IDE's are VSCode, PyDev, PyCharm
 
 
 
 
 Python code can be written in a simple text editor, such as Notepad (Windows).
-- Special IDE's are not a requirement. 
+    - Special IDE's are not a requirement. 

@@ -1,17 +1,17 @@
 **Computer Programming Basics**
-- A computer program consists of instructions that execute one at a time. 
-    - Input: program receives data from a file, keyboard, network, etc
+    - A computer program consists of instructions that execute one at a time. 
+        - Input: program receives data from a file, keyboard, network, etc
 
-    - Process: program performs computations on that data such as adding values
+        - Process: program performs computations on that data such as adding values
     
-    - Output: program that puts the data somewhere such as a file, screen, network
+        - Output: program that puts the data somewhere such as a file, screen, network
 
-- Programs use variables to refer to data. We asign values to variables by using
-the equal sign. x = 2. 
+    - Programs use variables to refer to data. We asign values to variables by using
+    the equal sign. x = 2. 
 
 
 
 
 **Computational Thinking**
-- Creating a sequence of instructions to solve a problem
-    - Algorithms: a sequence of instructions that solves a problem. 
+    - Creating a sequence of instructions to solve a problem
+        - Algorithms: a sequence of instructions that solves a problem. 

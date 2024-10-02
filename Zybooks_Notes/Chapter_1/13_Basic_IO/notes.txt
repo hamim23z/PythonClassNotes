@@ -1,27 +1,27 @@
 **Basic Text Output**
-- Text is output from a Python program using the built in print() function. 
-    - Each print statement, prints its output on a new line automatically.
-    - White spaces matter in Python, meaning we can actually print out blank spaces.
-    - Any space, tab or newline is called white space. 
+    - Text is output from a Python program using the built in print() function. 
+        - Each print statement, prints its output on a new line automatically.
+        - White spaces matter in Python, meaning we can actually print out blank spaces.
+        - Any space, tab or newline is called white space. 
 
-    - String: text enclosed in quotes. Can have letters, numbers, spaces, or symbols
-        • Strings must be enclosed in "" or ''. 
-        • Strings must start and end with the same kind of quotes.
+        - String: text enclosed in quotes. Can have letters, numbers, spaces, or symbols
+            • Strings must be enclosed in "" or ''. 
+            • Strings must start and end with the same kind of quotes.
 
 
 
 
 **Output Variables and Multiple Values**
-- The value of a variable can be printed out like so: print(variable_name)
-- A single output line can have multiple strings and variables are separated by commas. And 
-once we have the commas, a space character is automatically added between each. 
+    - The value of a variable can be printed out like so: print(variable_name)
+    - A single output line can have multiple strings and variables are separated by commas. And 
+    once we have the commas, a space character is automatically added between each. 
 
 
 
 
 **Keeping Outputs on the Same Line**
-- We know that when we use print(), each output is automatically on a new line. However, if 
-we do end= ' ' inside of the print, then it keeps the output of the next on the same line. 
+    - We know that when we use print(), each output is automatically on a new line. However, if 
+    we do end= ' ' inside of the print, then it keeps the output of the next on the same line. 
     - Make sure to end what you want to print by using your quotes and then put a commas
     after and then do the end = ' '
     - EXAMPLE: print("Hello, my name is: Hamim", end = ' ' )
@@ -30,18 +30,18 @@ we do end= ' ' inside of the print, then it keeps the output of the next on the 
 
 
 **Moving Output to the Next Line**
-- Outputs can be moved to the next line by using the newline character which is \n.
-    - Escape Sequence: a string that has a special meaning. Other escape sequences exist
-    which will be covered later. 
-    - EXAMPLE: print("1\n2\n3\n4")
+    - Outputs can be moved to the next line by using the newline character which is \n.
+        - Escape Sequence: a string that has a special meaning. Other escape sequences exist
+        which will be covered later. 
+            • EXAMPLE: print("1\n2\n3\n4")
 
 
 
 
 **Basic Input**
-- The input() function is used to read input from a user. 
-    - EXAMPLE: num_cars = input()
-    - EXAMPLE: number = int(input())
+    - The input() function is used to read input from a user. 
+        • EXAMPLE: num_cars = input()
+        • EXAMPLE: number = int(input())
 
 
 

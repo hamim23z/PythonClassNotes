@@ -5,9 +5,9 @@
 
 
 **Precision in Programming**
-- In order to run programs correctly, they need to be created precisely. 
-    - EXAMPLE: = and == is different
-    - EXAMPLE: counting from i<10 gives a different output than i<=10
+    - In order to run programs correctly, they need to be created precisely. 
+        • EXAMPLE: = and == is different
+        • EXAMPLE: counting from i<10 gives a different output than i<=10
 
 - Paying careful attention to details like whitespace instructions, carefully examining 
 feedback regarding whitespace differences, and then modifying a program to exactly match 

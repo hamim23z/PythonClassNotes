@@ -1,0 +1,16 @@
+**Variables and Assignments**
+    - Variable: a named item that holds a value
+
+    - Assignment Statement: assigns a variable with a value, such as x=5. 
+        • When we do that, it doesn't mean that x is equal to 5, it simply
+        means that x keeps that value. The left side must be a variable. 
+
+
+
+
+**Assignments with Variable on Left and Right**
+    - Above, we did that say variable must be on the left side. However, it can 
+    also be on the right side. But it isn't a must. For example, one of the most
+    common ways that we see it on both sides is when we increment or decrement. 
+        • Increment: x = x+1
+        • Decrement: x = x-1
