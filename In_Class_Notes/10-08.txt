@@ -1,0 +1,32 @@
+a = float(input("Enter first number: ))
+b = float(input("Enter second number: ))
+c = float(input("Enter third number: ))
+
+largest = a
+
+if b > largest:
+    largest = b
+
+if c > largest:
+    largest = c
+
+print("The largest is:", largest)
+
+
+**Logical Operators**
+    - All logical operators gives us a boolean response, either True or False. 
+    - 
+
+
+
+    - Logical AND Operator
+        • In Python, we use "and"
+        • This is true when only both sides of the "and" are true.
+        • Aka when both conditions are true. Or it's false otherwise.
+
+
+
+    - Logical OR Operator
+        • In Python, we use "or"
+        • This is false when only both sides of the "or" is false. 
+        • Aka when both conditions are false. Or its true otherwise. 
