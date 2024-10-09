@@ -1,0 +1,29 @@
+**Math Module**
+    - Python comes with a standard math module to support advanced
+    mathematical operations. 
+    - In order to use the math module, we simply do "import math" at 
+    the top of our file. 
+        
+        - Module: python code located in another file
+
+        - Function: a list of statements that can be executes by referring
+        to the function's name. 
+
+        - Function Call: the process of invoking a function
+
+        - Argument: the item passed to a function. Functions are allowed to 
+        have multiple arguments. 
+
+
+
+
+**Commonly Used Math Functions**
+    - For the most part, these functions require the math in front so it'll be like
+    math.pow(4, 2) or math.floor(2.3)
+    - Remember to import math or you'll get an error message. 
+        - ceil(x)
+        - factorial(x)
+        - floor(x)
+        - fabs(x)
+        - pow(x)
+        - sqrt(x)

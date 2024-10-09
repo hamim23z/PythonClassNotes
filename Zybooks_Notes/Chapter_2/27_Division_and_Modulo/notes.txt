@@ -1,0 +1,24 @@
+**Division: Integer Rounding**
+    - To do division, we use the / symbol. 
+    - It returns a floating point number. 
+        • Example: 20/10 = 2.0
+        • Example: 16/2 = 8.0
+
+
+    - We can also use the // operator. This can work in two ways. It is 
+    used to round down the result of the division to the smallest whole
+    number. 
+    - If both numbers are integers, the result is an integer. 
+    - If one number is a float, the result is a float. 
+        • Example: 20 // 10 = 2
+        • Example: 5.0 // 2 = 2.0 (even though its 2.5, it rounds down and returns float)
+
+
+
+
+**Modulo**
+    - Represented by the % symbol. And what it does it essentially evaluates
+    the remainder of the division of two integers. 
+        • Example: 23 % 10 = 3
+        • Example: 9 % 4 = 1
+        • Example: 9 % 5 = 4

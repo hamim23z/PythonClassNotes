@@ -1,0 +1,28 @@
+**Representing Text**
+    - Python uses Unicode to represent every possible character as a 
+    unique numbers. That is called a code point. 
+        • Example: G is 71
+        • Example: ! is 33
+        • Example: g is 103
+
+
+
+
+**Escape Sequences**
+    - These are special characters that allow us to print differently. 
+    - Some of the most common ones are below. 
+        • Example: \\ - Backslash - print("\\hello\\there) -> \hello\there
+        • Example: \' - Single Quote - print("\'To be or not to be\'") -> 'To be or not to be'
+        • Example: \" - Double Quote - print("\"To be or not to be again\"") -> "To be or not to be again"
+        • Example: \n - Newline - print("Hello \nthere")
+        • Example: \t - Indent - print("This is \tso far")
+
+
+
+
+**Raw Strings and Converting**
+    - Escape sequences can be ignored using a raw string. A raw string is created by adding an "r"
+    before a string literal, as in r'this is a raw string\'', which would output as this is a raw string\'.
+
+    - The built-in function ord() returns an encoded integer value for a string of length one. 
+    - The built-in function chr() returns a string of one character for an encoded integer.

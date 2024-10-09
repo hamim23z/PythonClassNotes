@@ -1,0 +1,14 @@
+**Compound Operators**
+    - These are special operators that provide a shorthand way to
+    update a variable. Common ones are below
+        - age += 1 means age = age + 1
+        - age -= 1 means age = age - 1
+        - age *= 1 means age = age * 1
+        - age /= 1 means age = age / 1
+        - age %= 1 means age = age % 1
+
+
+
+
+**Important Note**
+    - Commas are not allowed for literals, like not allowed at all. 

@@ -1,0 +1,15 @@
+**Basics**
+    - Espression: a combination of items, like variables, literals, operators, 
+    and parenthesis. And all that evaluates to a value like 2 * (x+1). It's
+    usually on the right side of the expression. 
+
+    - Literal: a specific value in code like 2, 3, 4
+
+    - Operator: a symbol that performs calculations, like +, -, *, /
+
+
+
+
+**Evaluation of Expressions**
+    - An expression evaluates a value, which then replaces the expression. 
+    - If x is 5, then x+1 now equals 6, and y = x+1 assigns y with 6. 
