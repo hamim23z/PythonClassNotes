@@ -1,3 +1,3 @@
-Course: CSC 11300
-Professor: Towne
-Semester: Fall 2024
+Course: CSC 11300\n
+Professor: Towne\n
+Semester: Fall 2024\n
