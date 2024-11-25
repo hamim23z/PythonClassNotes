@@ -1,0 +1,14 @@
+**Logical and, or, not**
+    - A logical operator treats operands as being True or False and then it eveluates to
+    True or False. 
+    - For and: Both statements must be True so then it returns True. 
+    - For or: Only one statement or both must be True so it returns True. 
+    - For not: It just flips the sign essentially. True becomes False and False becomes True. 
+    - Yes, the operators are lowercase. 
+
+
+
+
+**Booleans and Logical Operators**
+    - Boolean is True and False. We can assignment a boolean value so a variable. And also, 
+    we can evaluate an expression that gives a Boolean. 

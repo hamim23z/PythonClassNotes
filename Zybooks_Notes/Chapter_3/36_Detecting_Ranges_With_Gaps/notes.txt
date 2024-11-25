@@ -1,0 +1,11 @@
+**Basic Ranges with gaps**
+    - Ranges contain gaps. For example, movie theaters  give ticket discounts to children (anyone 12 and under) 
+    and seniors (anyone 65 and older). The gap is the group of people aged 13 to 64. An if-else statement can be 
+    used to detect such ranges with gaps. We would essentially just use an if elif else. 
+
+
+
+
+**Ranges with gaps using logical operators**
+    - We can use logical operators to explicitly detect ranges with an upper and lower bound. We can and often
+    times use the and operator and then or operator, with some form of parenthesis. 

@@ -1,0 +1,11 @@
+**Multiple Distinct if Statements**
+    - Multiple if statements often look similar to a multi branch if else statement but it is different because
+    each if statement is independent and more than one branch can execute.
+    - It's basically saying how is have a variable set, to a certain number. And that number meets the condition
+    for three different if statements, those three statements will execute and do whatever we have it set to do. 
+
+
+
+
+**Nested If Else Statements**
+    - An if else statement is just inside another if else statement. 
