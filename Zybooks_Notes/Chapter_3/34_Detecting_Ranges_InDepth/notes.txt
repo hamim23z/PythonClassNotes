@@ -1,0 +1,17 @@
+**Relational Operators**
+    - A relational operator checks how one operand's value relates to one another. 
+    - Some common and most used are <, >, <=, >=. 
+
+
+
+
+**Operator Chaining**
+    - In Python, we can do operator chaining. This means that we are allowed to do
+    a < b < c. And this means b is greater than a but less than c.
+
+    - When we chain operators, it's read from left to right, so a < b is evaluated first. 
+    If that is true, then we evaluate b < c. And if a < b is false, we stop eveluating.
+
+    - Example: Show x is less than y but greater than z. 
+        - x < y but x > z
+        - This can be shown as: z < x < y 
