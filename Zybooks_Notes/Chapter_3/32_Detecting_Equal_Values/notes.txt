@@ -1,0 +1,29 @@
+**Detecting if two items are equal using an if statement**
+    - An if statement executes a group of statements if an expression is true. 
+    - These statements must be indented, usually 4 spaces. 
+    - We use the equality operator, which is ==, and it evaluates to True if the 
+    left and right sides are equal. 
+
+
+
+
+**Equality and Inequality Operators**
+    - We know the equality operator checks whether two values are equal. 
+    - The inequality operator is used to check if the two sides are not equal. 
+    It is used as !=. If we have a!=b, then it means a is not equal to b. 
+    - And whenever we use == or !-, it evaluates to a boolean value of True or False. 
+
+
+
+
+**If Else Statement**
+    - An if else statement executes one group of statements when the condition is true. And another
+    group of statements if the condition is false. Hence, if true run this, else run this instead. 
+
+
+
+
+**Multi Branch If-Else Statements**
+    - An if else statement can be extended to have 3+ branches. And we use the elif keyword to showcase
+    it, which stands for else if. If expression1 is true, end. If expression 2 is false, go to expression2
+    and if that is false, go to expression3. Etc Etc. Only one branch will execute. 

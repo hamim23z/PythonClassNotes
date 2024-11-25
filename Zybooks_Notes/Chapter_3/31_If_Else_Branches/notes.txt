@@ -1,0 +1,16 @@
+**Branch Basics**
+    - A branch is a sequence of statements only executed under a certain condition. 
+
+    - If Branch:
+        - An if branch is a branch taken only when the expressed is true. 
+
+    - If Else Branch:
+        - An if else branch has two branches. If the condition is true/met, the first
+        branch is executed. If it's false/not met, then the second branch is executed. 
+
+    - If ElseIf Else Branch:
+        - This is an extension of the if else branch. If there are two+ different outcomes, 
+        then we use this. If the condition is met, first branch. If it is not met, then second
+        branch, if it's still not met, then third branch. And if it never met, then it goes to
+        the else branch and executes. Else branch can be thought of default. But the else part
+        is optional. 
