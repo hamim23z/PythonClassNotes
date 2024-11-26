@@ -1,0 +1,4 @@
+**Loop**
+    - Loop is a program that executes the loop statements (loop body) while the loop expression (condition)
+    is true. When the condition is false, execution goes past the loop. 
+    

@@ -1,0 +1,14 @@
+**While Loops**
+    - While loop repeatedly executes the loop body as long as the condition is True. Basically, while the condition is True, 
+    do this. And keep doing it until the condition is False. 
+    - At the end of the loop body, program goes back to the while loop statement and the condition is checked again. If the
+    condition is True, the loop body is executed. But if it is false, it goes out the loop body. 
+
+
+
+
+**Sentinel While Loops**
+    - Sentinel while loops are basically when we don't know exactly how long we want the loop to run, but it provides an option
+    to quit. It's basically like enter this number to proceed or enter -1 to exit. 
+    - The condition updates based on user input or external changes. 
+    - For sentinel while loops, also need to always have the condition at the bottom outside of the loop again. 
