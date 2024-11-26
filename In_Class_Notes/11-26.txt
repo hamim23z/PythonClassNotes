@@ -1,0 +1,96 @@
+Test moved to next week 12/3
+
+First Part
+    - Write a program
+
+Second Part
+    - Trace a program
+
+Third Part
+    - For loop inside of a for loop only, wont have anything else. 
+
+
+
+
+**For Loops**
+    - There are 3 different kinds of for loops. 
+        1. for i in range (5):
+            print (i)
+        - In this case, the starting value for the loop counter is zero. 
+        - The number in the range is excluded, so it'll be 0-4. 
+
+        An equivalent while loop can be
+            i = 0
+            while (i < 5):
+                print (i)
+                i += 1
+
+
+        2. for i in range (1,6):
+            print (i)
+        - In this case, the starting value is 1. 
+        - The numbers in the range will be 1-5. 
+
+        An equivalent while loop can be
+            i = 0
+            while (i < 6):
+                print(i) 
+                i += 1
+
+
+        3. for i in range (1, 11, 2):
+                print(i)
+        - In this case, the starting value for the loop counter is 1. 
+        - The numbers is the range will be 1-10. 
+        - We increment by 2.
+
+            for i in range (9, 0, -2):
+                print(i)
+        - In this case, the starting value for the loop counter is 9. 
+        - The numbers in the range will be 9 to 0. 
+        - We decrement by 2. 
+            
+
+
+
+**Factorials**
+    - There are two different ways to solve factorials, recursively or iteration. We will
+    focus on iterations. 
+    - 0! = 0
+    - 1! = 1
+    - 2! = 2
+    - n! = n * (n-1) * (n-2) ...
+
+
+    Example:
+        - Write a program that obtains a non negative integer from the user and outputs its corresponding factorial. 
+        - We will be using for loops and interations for this
+    
+    print("Enter a non negative integer: ")
+    n = int(input())
+    factorial = 1
+    for j in range (n, 0, -1):
+        factorial *= j
+    print(str(n) + '!=' + str(fact))
+    - So if a user enters 5, it will be 5*4*3*2*1 = 120
+
+    - We can also go from smaller to larger, it is the same just the for loop changes. 
+    - But the first method is more natural. 
+    for j in range (1, n+1):
+
+
+
+
+**Nested Loops**
+    - Nested for loops are useful for matrices and any 2 dimensional structure like Excal, anything on a plane. 
+
+    Example:
+        for i in range (1,5): -> this is the outer for loop that is responsible for the number of rows. 
+            for j in range (1,5): -> this is the inner for loop that is responsible for the number of columns. 
+                print('*', end = ' ') 
+            print()
+
+
+        - The body of the inner for loop is the print('*', end = ' ')
+        - The body of the outer for loop is everything below it. 
+        - 
