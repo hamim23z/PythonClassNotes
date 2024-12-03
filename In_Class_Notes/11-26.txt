@@ -47,7 +47,7 @@ Third Part
             for i in range (9, 0, -2):
                 print(i)
         - In this case, the starting value for the loop counter is 9. 
-        - The numbers in the range will be 9 to 0. 
+        - The numbers in the range will be 9 to 1, 0 is not included. 
         - We decrement by 2. 
             
 
